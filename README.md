@@ -25,4 +25,4 @@ MUSIC by Brackeys, Sofia Thirslund
 
 FONTS by Jayvee Enaguas - HarvettFox96 - (https://www.dafont.com/pixel-operator.font?l[]=10&l[]=1)
 
-TUTORIAL by Brackeys.
+TUTORIAL by Brackeys. https://www.youtube.com/watch?v=LOhfqjmasi0
